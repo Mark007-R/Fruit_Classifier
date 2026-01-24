@@ -1,0 +1,16 @@
+dataset/
+example_dataset/
+setup_guide.txt
+requirements.txt
+support.md
+troubleshooting.md
+*.pkl
+*.h5
+*.joblib
+*.sav
+__pycache__/
+.env/
+venv/
+.vscode/
+Thumbs.db
+.DS_Store
