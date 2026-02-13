@@ -87,8 +87,7 @@ Saved model files (.pkl) contain:
 
 
 ## License
-
-This project is free to use for educational and personal purposes.
+Licensed under the MIT License. See [LICENSE](LICENSE).
 
 ## Features Summary
 
