@@ -1,4 +1,4 @@
-# Fruit Image Classification System
+# Fruit-Image-Classifier
 
 A comprehensive machine learning application for classifying fruit images using **Support Vector Machine (SVM)**, **Decision Tree**, and **K-Nearest Neighbors (KNN)** algorithms with a user-friendly GUI.
 
